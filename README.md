@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @praveen
+- 👋 Hi, I’m Praveen
 - 👀 I’m interested in coding and development
 - 🌱 I’m currently learning python and java 
 - 💞️ I’m looking to collaborate on some development based project.
